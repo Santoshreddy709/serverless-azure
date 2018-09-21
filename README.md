@@ -1,1 +1,2 @@
 # serverless-azure
+Azure Functions
